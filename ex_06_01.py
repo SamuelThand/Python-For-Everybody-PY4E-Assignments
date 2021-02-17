@@ -1,4 +1,4 @@
-#Assigntment
+#Assignment
 #   Take the following Python code that stores a string:
 #
 #   str = 'X-DSPAM-Confidence:0.8475'
