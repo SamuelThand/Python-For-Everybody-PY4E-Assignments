@@ -23,8 +23,6 @@ If the score is between 0.0 and 1.0, print a grade using the following table:
 
    Enter score: 0.5
    F
-
-   Solution
 '''
 
 score=input('Enter a score between 0.0 and 1.0: ')
